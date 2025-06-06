@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Esteban Manuel Gudiño Acevedo
 - 👀 I’m interested in Psichology, Artificial Inteligence, Philosophy
 - 🌱 I’m currently learning Artificial Inteligence 
-- 💞️ I’m looking to collaborate on Inferencia Hub
+- 💞️ I’m looking to collaborate on Frontier AI
 
 Esteban Manuel Gudiño Acevedo is an Argentine social psychologist and independent
 researcher who has emerged as an innovative voice in the field of artificial intelligence.
